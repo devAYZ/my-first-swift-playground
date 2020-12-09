@@ -1,3 +1,4 @@
 import UIKit
 
-var str = "Hello, playground"
+// my commment goes here
+var myName = "Engineer Ayokunle."
